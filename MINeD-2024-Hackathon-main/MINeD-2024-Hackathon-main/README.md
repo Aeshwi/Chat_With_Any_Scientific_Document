@@ -53,8 +53,3 @@ pip install pytesseract
 Below is the output of main class 'DocumentChatter'
 ![UI Output](https://github.com/Aura-Guardian/MINeD-2024-Hackathon/blob/main/UI%20Output.png)
 
-#### Contact
-If you encountered any difficulties following these steps with success, please refer to the usage and installation guides once again.
-For further doubts contact:
-Azim Theba - azimtheba2802@outlook.com
-			 21bce020@nirmauni.ac.in
